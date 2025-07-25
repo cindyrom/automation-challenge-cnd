@@ -1,0 +1,22 @@
+{
+    "name": "cintestuser",
+    "email": "testcin0012@gmail.com",
+    "registered_email": "test1111cin@gmail.com",
+    "password": "testuser12",
+    "validUser": "huge2.test@gmail.com",
+    "validPassword": "Monday12.",
+
+    "checkout": [
+        {
+            "name": "Jhon",
+            "lastName": "Due",
+            "email": "huge2.test@gmail.com",
+            "address": "Calle 95 # 5-6",
+            "country": "Colombia",
+            "nameHolder": "Jhon Due",
+            "cardNumber": "5840254353870254",
+            "expiryDate": "2028-11",
+            "securityCode": "637"
+        }
+    ]
+}
